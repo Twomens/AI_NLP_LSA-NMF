@@ -4,7 +4,11 @@ import numpy as np
 import os
 import re
 from gensim.parsing.preprocessing import remove_stopwords
+from gensim.parsing.preprocessing import STOPWORDS
 from sklearn.decomposition import NMF,TruncatedSVD
+
+# print("Nb Stop words : ",len(STOPWORDS))
+# print((STOPWORDS))
 
 # Find files
 pathList = [] # os.listdir('Journals/')
@@ -32,6 +36,7 @@ for path in docDFList:
         lines[index] = re.sub(r'[^a-z][a-z]{1}[^a-z]','',lines[index]) # signle letter in a line
         lines[index] = re.sub(r'^[a-z]{1}[^a-z]','',lines[index]) # signle letter start of line
         lines[index] = re.sub(r'[^a-z][a-z]{1}$','',lines[index]) # signle letter end of line
+        lines[index] = re.sub(r'journal','',lines[index]) # mot journal non discriminant
         lines[index] = remove_stopwords(lines[index])
 
         df = pd.DataFrame(lines[index].split()) # lower case + séparation ligne mot
@@ -40,6 +45,7 @@ for path in docDFList:
     docDFList[path].dropna()
     # print(path)
     # print(docDFList[path])
+    # print(docDFList[path].shape)
 
 # Matrix factorization
 
@@ -65,18 +71,22 @@ modelLSA  = TruncatedSVD(n_components=2, n_iter=7, random_state=42)
 W = model.fit_transform(factMatNP)
 H = model.components_
 WH= W.dot(H)
-# print("Matrice U/W : \n",W)
-# print("\nMatrice V/H : \n",H)
+# print("Matrice W : \n",W)
+print("\nMatrice H : \n",H)
 
 U = modelLSA.fit_transform(factMatNP)
-V = model.components_
-UsV = modelLSA.inverse_transform(U)
+V = modelLSA.components_
+UsV = U.dot(V)
+# print("Matrice U : \n",U)
+print("\nMatrice V : \n",V)
 
-print("WH")
-print(WH)
+print('PathList : ',pathList)
 
-print("UsV")
-print(UsV)
+# print("WH")
+# print(WH)
+
+# print("UsV")
+# print(UsV)
 
 
 #MSE Calcul
@@ -85,8 +95,7 @@ print("MSE NMF : ",((factMatNP-WH)**2).mean())
 print("MSE LSA : ",((factMatNP-UsV)**2).mean())
 
 # Scatter plots of Topic relation
-
-plt.scatter(H[0], H[1], s=1.5)
+plt.scatter(H[0], H[1])
 plt.title("Topic 0 Topic 1 : docs (NMF)")
 plt.xlabel("Topic 0")
 plt.ylabel("Topic 1")
@@ -98,7 +107,7 @@ plt.xlabel("Topic 0")
 plt.ylabel("Topic 1")
 plt.show()
 
-plt.scatter(V[0], V[1], s=1.5)
+plt.scatter(V[0], V[1])
 plt.title("Topic 0 Topic 1 : docs (LSA)")
 plt.xlabel("Topic 0")
 plt.ylabel("Topic 1")
