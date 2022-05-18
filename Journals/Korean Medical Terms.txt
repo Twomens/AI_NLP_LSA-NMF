@@ -1,0 +1,111 @@
+﻿Cancer Research and Treatment	Cancer Res Treat
+Chonnam Medical Journal	Chonnam Med J
+Experimental and Molecular Medicine	Exp Mol Med
+Immune Network	Immune Netw
+Infection and Chemotherapy	Infect Chemother
+Journal of Asthma, Allergy and Clinical Immunology	J Asthma Allergy Clin Immunol
+Journal of Bacteriology and Virology	J Bacteriol Virol
+Journal of Genetic Medicine	J Genet Med
+Journal of Korean Academy of Adult Nursing	J Korean Acad Adult Nurs
+Journal of Korean Academy of Fundamental Nursing	J Korean Acad Fundam Nurs
+Journal of Korean Academy of Nursing	J Korean Acad Nurs
+Journal of Korean Academy of Oral and Maxillofacial Radiology	J Korean Acad Oral Maxillofac Radiol
+Journal of Korean Academy of Prosthodontics	J Korean Acad Prosthodont
+Journal of Korean Breast Cancer Society	J Korean Breast Cancer Soc
+Journal of Korean Medical Science	J Korean Med Sci
+Journal of Korean Orthopaedic Research Society	J Korean Orthop Res Soc
+Journal of Korean Society of Medical Informatics	J Korean Soc Med Inform
+Journal of Korean Society of Spine Surgery	J Korean Soc Spine Surg
+Journal of the Korean Academy of Family Medicine	J Korean Acad Fam Med
+Journal of the Korean Academy of Rehabilitation Medicine	J Korean Acad Rehabil Med
+Journal of the Korean Association of Maxillofacial Plastic and Reconstructive Surgeons	J Korean Assoc Maxillofac Plast Reconstr Surg
+Journal of the Korean Association of Oral and Maxillofacial Surgeons	J Korean Assoc Oral Maxillofac Surg
+Journal of the Korean Association of Pediatric Surgeons	J Korean Assoc Pediatr Surg
+Journal of the Korean Cancer Association	J Korean Cancer Assoc
+Journal of the Korean Child Neurology Society	J Korean Child Neurol Soc
+Journal of the Korean Cleft Palate-Craniofacial Association	J Korean Cleft Palate-Craniofac Assoc
+Journal of the Korean Continence Society	J Korean Continence Soc
+Journal of the Korean Diabetes Association	J Korean Diabet Assoc
+Journal of the Korean Gastric Cancer Association	J Korean Gastric Cancer Assoc
+Journal of the Korean Knee Society	J Korean Knee Soc
+Journal of the Korean Neurological Association	J Korean Neurol Assoc
+Journal of the Korean Neuropsychiatric Association	J Korean Neuropsychiatr Assoc
+Journal of the Korean Neurosurgical Society	J Korean Neurosurg Soc
+Journal of the Korean Ophthalmological Society	J Korean Ophthalmol Soc
+Journal of the Korean Orthopaedic Association	J Korean Orthop Assoc
+Journal of the Korean Pain Society	J Korean Pain Soc
+Journal of the Korean Pediatric Society	J Korean Pediatr Soc
+Journal of the Korean Radiological Society	J Korean Radiol Soc
+Journal of the Korean Rheumatism Association	J Korean Rheum Assoc
+Journal of the Korean Society for Microbiology	J Korean Soc Microbiol
+Journal of the Korean Society for Therapeutic Radiology	J Korean Soc Ther Radiol
+Journal of the Korean Society for Therapeutic Radiology and Oncology	J Korean Soc Ther Radiol Oncol
+Journal of the Korean Society for Transplantation	J Korean Soc Transplant
+Journal of the Korean Society for Vascular Surgery	J Korean Soc Vasc Surg
+Journal of the Korean Society of Aesthetic Plastic Surgery	J Korean Soc Aesthetic Plast Surg
+Journal of the Korean Society of Coloproctology	J Korean Soc Coloproctol
+Journal of the Korean Society of Echocardiography	J Korean Soc Echocardiogr
+Journal of the Korean Society of Emergency Medicine	J Korean Soc Emerg Med
+Journal of the Korean Society of Endocrinology	J Korean Soc Endocrinol
+Journal of the Korean Society of Magnetic Resonance in Medicine	J Korean Soc Magn Reson Med
+Journal of the Korean Society of Medical Ultrasound	J Korean Soc Med Ultrasound
+Journal of the Korean Society of Neonatology	J Korean Soc Neonatol
+Journal of the Korean Society of Pediatric Nephrology	J Korean Soc Pediatr Nephrol
+Journal of the Korean Society of Plastic and Reconstructive Surgeons	J Korean Soc Plast Reconstr Surg
+Journal of the Korean Society of Virology	J Korean Soc Virol
+Journal of the Korean Surgical Society	J Korean Surg Soc
+Journal of the Korean Vascular Surgery Society	J Korean Vasc Surg Soc
+Korean Circulation Journal	Korean Circ J
+Korean Journal of Aerospace and Environmental Medicine	Korean J Aerosp Environ Med
+Korean Journal of Allergy	Korean J Allergy
+Korean Journal of Anatomy	Korean J Anat
+Korean Journal of Andrology	Korean J Androl
+Korean Journal of Anesthesiology	Korean J Anesthesiol
+Korean Journal of Blood Transfusion	Korean J Blood Transfus
+Korean Journal of Cerebrovascular Disease	Korean J Cerebrovasc Dis
+Korean Journal of Cerebrovascular Surgery	Korean J Cerebrovasc Surg
+Korean Journal of Child Health Nursing	Korean J Child Health Nurs
+Korean Journal of Clinical Pathology	Korean J Clin Pathol
+Korean Journal of Critical Care Medicine	Korean J Crit Care Med
+Korean Journal of Cytopathology	Korean J Cytopathol
+Korean Journal of Dermatology	Korean J Dermatol
+Korean Journal of Epidemiology	Korean J Epidemiol
+Korean Journal of Fertility and Sterility	Korean J Fertil Steril
+Korean Journal of Gastroenterology	Korean J Gastroenterol
+Korean Journal of Gastrointestinal Endoscopy	Korean J Gastrointest Endosc
+Korean Journal of Gastrointestinal Motility	Korean J Gastrointest Motil
+Korean Journal of Hematology	Korean J Hematol
+Korean Journal of Hepatology	Korean J Hepatol
+Korean Journal of Immunology	Korean J Immunol
+Korean Journal of Infectious Diseases	Korean J Infect Dis
+Korean Journal of Internal Medicine	Korean J Intern Med
+Korean Journal of Laboratory Medicine	Korean J Lab Med
+Korean Journal of Legal Medicine	Korean J Leg Med
+Korean Journal of Medical Education	Korean J Med Educ
+Korean Journal of Medical History	Korean J Med Hist
+Korean Journal of Medical Mycology	Korean J Med Mycol
+Korean Journal of Medicine	Korean J Med
+Korean Journal of Nephrology	Korean J Nephrol
+Korean Journal of Nuclear Medicine	Korean J Nucl Med
+Korean Journal of Obstetrics and Gynecology	Korean J Obstet Gynecol
+Korean Journal of Occupational and Environmental Medicine	Korean J Occup Environ Med
+Korean Journal of Ophthalmology	Korean J Ophthalmol
+Korean Journal of Oral and Maxillofacial Radiology	Korean J Oral Maxillofac Radiol
+Korean Journal of Otolaryngology - Head and Neck Surgery	Korean J Otolaryngol - Head Neck Surg
+Korean Journal of Parasitology	Korean J Parasitol
+Korean Journal of Pathology	Korean J Pathol
+Korean Journal of Pediatric Hematology-Oncology	Korean J Pediatr Hematol-Oncol
+Korean Journal of Pediatrics	Korean J Pediatr
+Korean Journal of Perinatology	Korean J Perinatol
+Korean Journal of Physiology and Pharmacology	Korean J Physiol Pharmacol
+Korean Journal of Preventive Medicine	Korean J Prev Med
+Korean Journal of Psychopharmacology	Korean J Psychopharmacol
+Korean Journal of Radiology	Korean J Radiol
+Korean Journal of Thoracic and Cardiovascular Surgery	Korean J Thorac Cardiovasc Surg
+Korean Journal of Urology	Korean J Urol
+Korean Journal of Women Health Nursing	Korean J Women Health Nurs
+Pediatric Allergy and Respiratory Disease	Pediatr Allergy Respir Dis
+Sleep Medicine and Psychophysiology	Sleep Med Psychophysiol
+Tuberculosis and Respiratory Diseases	Tuberc Respir Dis
+Yonsei Medical Journal	Yonsei Med J
+

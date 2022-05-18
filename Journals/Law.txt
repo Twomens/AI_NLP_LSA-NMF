@@ -1,0 +1,594 @@
+﻿Administrative Law Review	Admin. L. Rev.
+African-American Law & Policy Report	Afr.-Am. L. & Pol'y Rep.
+Akron Law Review	Akron L. Rev.
+Akron Tax Journal	Akron Tax J.
+Alabama Law Review	Ala. L. Rev.
+Alaska Law Review	Alaska L. Rev.
+Albany Law Journal of Science & Technology	Alb. L.J. Sci. & Tech.
+Albany Law Review	Alb. L. Rev.
+American Bankruptcy Institute Law Review	Am. Bankr. Inst. L. Rev.
+American Criminal Law Review	Am. Crim. L. Rev.
+American Indian Law Review	Am. Indian L. Rev.
+American Journal of Comparative Law	Am. J. Comp. L.
+American Journal of Criminal Law	Am. J. Crim. L.
+American Journal of Law & Medicine	Am. J.L. & Med.
+American Journal of Legal History	Am. J. Legal Hist.
+American Journal of Trial Advocacy	Am. J. Trial Advoc.
+American Review of International Arbitration	Am. Rev. Int'l Arb.
+American University International Law Review	Am. U. Int'l L. Rev.
+American University Journal of Gender, Social Policy & the Law	Am. U. J. Gender & Soc. Pol'y & L.
+American University Law Review	Am. U. L. Rev.
+Animal Law	Animal L.
+Annals of Health Law	Annals Health L.
+Annual Review of Banking and Financial Law	Ann. Rev. Banking & Fin. L.
+Annual Survey of International & Comparative Law	Ann. Surv. Int'l & Comp. L.
+Antitrust Law Journal	Antitrust L.J.
+Appalachian Journal of Law	Appalachian J.L.
+Arizona Journal of International and Comparative Law	Ariz. J. Int'l & Comp. L.
+Arizona Law Review	Ariz. L. Rev.
+Arizona State Law Journal	Ariz. St. L.J.
+Arkansas Law Review	Ark. L. Rev.
+Asia Pacific Journal of Environmental Law	Asia Pac. J. Envtl. L.
+Asian Law Journal	Asian L.J.
+Australian Journal of Asian Law	Austl. J. Asian L.
+Ave Maria Law Review	Ave Maria L. Rev.
+Barry Law Review	Barry L. Rev.
+Baylor Law Review	Baylor L. Rev.
+Berkeley Business Law Journal	Berkeley Bus. L.J.
+Berkeley Journal of Employment and Labor Law	Berkeley J. Emp. & Lab. L.
+Berkeley Journal of International Law	Berkeley J. Int'l L.
+Berkeley La Raza Law Journal	Berkeley La Raza L.J.
+Berkeley Technology Law Journal	Berkeley Tech. L.J.
+Berkeley Women's Law Journal	Berkeley Women's L.J.
+Boston College Environmental Affairs Law Review	B.C. Envtl. Aff. L. Rev.
+Boston College International and Comparative Law Review	B.C. Int'l & Comp. L. Rev.
+Boston College Law Review	B.C. L. Rev.
+Boston College Third World Law Journal	B.C. Third World L.J.
+Boston University International Law Journal	B.U. Int'l L.J.
+Boston University Journal of Science & Technology Law	B.U. J. Sci. & Tech. L.
+Boston University Law Review	B.U. L. Rev.
+Boston University Public Interest Law Journal	B.U. Pub. Int. L.J.
+Brandeis Law Journal	Brandeis L.J.
+Brigham Young University Education and Law Journal	BYU Educ. & L.J.
+Brigham Young University Law Review	BYU L. Rev.
+Brooklyn Journal of International Law	Brook. J. Int'l L.
+Brooklyn Law Review	Brook. L. Rev.
+Buffalo Criminal Law Review	Buff. Crim. L. Rev.
+Buffalo Environmental Law Journal	Buff. Envtl. L.J.
+Buffalo Human Rights Law Review	Buff. Hum. Rts. L. Rev.
+Buffalo Intellectual Property Law Journal	Buff. Intell. Prop. L.J.
+Buffalo Law Review	Buff. L. Rev.
+Buffalo Public Interest Law Journal	Buff. Pub. Interest L.J.
+Buffalo Women's Law Journal	Buff. Women's L.J.
+Business Lawyer	Bus. Law.
+BYU Journal of Public Law	BYU J. Pub. L.
+California Law Review	Cal. L. Rev.
+California Western International Law Journal	Cal. W. Int'l L.J.
+California Western Law Review	Cal. W. L. Rev.
+Campbell Law Review	Campbell L. Rev.
+Canada-United States Law Journal	Can.-U.S. L.J.
+Capital Defense Journal	Cap. Def. J.
+Capital University Law Review	Cap. U. L. Rev.
+Cardozo Arts & Entertainment Law Journal	Cardozo Arts & Ent. L.J.
+Cardozo Journal of Conflict Resolution	Cardozo J. Conflict Resol.
+Cardozo Journal of International and Comparative Law	Cardozo J. Int'l & Comp. L.
+Cardozo Law Review	Cardozo L. Rev.
+Cardozo Public Law, Policy & Ethics Journal	Cardozo Pub. L. Pol’y & Ethics J.
+Cardozo Women's Law Journal	Cardozo Women's L.J.
+Case Western Reserve Journal of International Law	Case W. Res. J. Int'l L.
+Case Western Reserve Law Review	Case W. Res. L. Rev.
+Catholic Lawyer	Cath. Law.
+Catholic University Law Review	Cath. U. L. Rev.
+Chapman Law Review	Chapman L. Rev.
+Chicago Journal of International Law	Chi. J. Int'l L.
+Chicago-Kent Law Review	Chi.-Kent. L. Rev.
+Chicano-Latino Law Review	Chicano-Latino L. Rev.
+Cleveland State Law Review	Clev. St. L. Rev.
+Clinical Law Review	Clinical L. Rev.
+Colorado Journal of International Environmental Law and Policy	Colo. J. Int'l Envtl. L. & Pol'y
+Columbia Business Law Review	Colum. Bus. L. Rev.
+Columbia Human Rights Law Review	Colum. Hum. Rts. L. Rev.
+Columbia Journal of Asian Law	Colum. J. Asian L.
+Columbia Journal of Environmental Law	Colum. J. Envtl. L.
+Columbia Journal of European Law	Colum. J. Eur. L.
+Columbia Journal of Gender and Law	Colum. J. Gender & L.
+Columbia Journal of Law and Social Problems	Colum. J.L. & Soc. Probs.
+Columbia Journal of Law & the Arts	Colum. J.L. & Arts
+Columbia Journal of Transnational Law	Colum. J. Transnat'l L.
+Columbia Law Review	Colum. L. Rev.
+CommLaw Conspectus: Journal of Communications Law and Policy	CommLaw Conspectus
+Comparative Labor Law Journal & Policy Journal	Comp. Lab. L. & Pol'y J.
+Computer Law Review and Technology Law Journal	Computer L. Rev. & Tech. L.J. 
+Conflict Resolution Quarterly	Conflict Resol. Q.
+Connecticut Insurance Law Journal	Conn. Ins. L.J.
+Connecticut Journal of International Law	Conn. J. Int'l L.
+Connecticut Law Review	Conn. L. Rev.
+Constitutional Commentary	Const. Comment.
+Cornell International Law Journal	Cornell Int'l L.J.
+Cornell Journal of Law and Public Policy	Cornell J.L. & Pub. Pol'y
+Cornell Law Review	Cornell L. Rev.
+Creighton Law Review	Creighton L. Rev.
+Criminal Law Forum	Crim. L. Forum
+Cumberland Law Review	Cumb. L. Rev.
+Delaware Journal of Corporate Law	Del. J. Corp. L.
+Denver Journal of International Law and Policy	Denv. J. Intl'l L. & Pol'y
+Denver University Law Review	Denv. U. L. Rev.
+DePaul Business & Commercial Law Journal	DePaul Bus. & Com. L.J.
+DePaul Journal of Health Care Law	DePaul J. Health Care L.
+DePaul Law Review	DePaul L. Rev.
+Drake Law Review	Drake L. Rev.
+Duke Environmental Law & Policy Forum	Duke Envtl. L. & Pol'y F.
+Duke Journal of Comparative & International Law	Duke J. Comp. & Int'l L.
+Duke Journal of Gender Law & Policy	Duke J. Gender L. & Pol'y
+Duke Law Journal	Duke L.J.
+Duquesne Business Law Journal	Duq. Bus. L.J.
+Duquesne Law Review	Duq. L. Rev.
+Ecology Law Quarterly	Ecology L.Q.
+Elder Law Journal	Elder L.J.
+Emory Bankruptcy Developments Journal	Emory Bankr. Dev. J.
+Emory International Law Review	Emory Int'l L. Rev.
+Emory Law Journal	Emory L.J.
+Employee Rights and Employment Policy Journal	Em. Rts. & Emp. Pol'y J.
+Environmental Law	Envtl. L.
+Environmental Law Reporter News & Analysis	Envtl. L. Rep. News & Analysis
+Environmental Lawyer	Envtl. Law.
+Environs	Environs
+European Journal of International Law	Eur. J. Int'l L.
+Family Law Quarterly	Fam. L.Q.
+Federal Communications Law Journal	Fed. Comm. L.J.
+First Amendment Law Review	First Amend. L. Rev.
+Florida Coastal Law Journal	Fla. Coastal L.J.
+Florida Entertainment, Art & Sport Law Journal	Fla. Ent. Art & Sport L.J.
+Florida Journal of International Law	Fla. J. Int'l L.
+Florida Law Review	Fla. L. Rev.
+Florida State University Law Review	Fla. St. U. L. Rev.
+Florida Tax Review	Fla. Tax Rev.
+Fordham Environmental Law Journal	Fordham Envtl. L.J.
+Fordham Intellectual Property, Media & Entertainment Law Journal	Fordham Intell. Prop. Media & Ent. L.J.
+Fordham International Law Journal	Fordham Int'l L.J.
+Fordham Law Review	Fordham L. Rev.
+Fordham Urban Law Journal	Fordham Urb. L.J.
+George Mason Law Review	Geo. Mason L. Rev.
+George Mason University Civil Rights Law Journal	Geo. Mason U. Civ. Rts. L.J.
+George Washington International Law Review	Geo. Wash. Int'l L. Rev.
+George Washington Law Review	Geo. Wash. L. Rev.
+Georgetown Immigration Law Journal	Geo. Immigr. L.J.
+Georgetown International Environmental Law Review	Geo. Int'l Envtl. L. Rev.
+Georgetown Journal of Gender and the Law	Geo. J. Gender & L.
+Georgetown Journal of International Law	Geo. J. Int'l L.
+Georgetown Journal of Law & Public Policy	Geo. J.L. & Pub. Pol'y
+Georgetown Journal of Legal Ethics	Geo. J. Legal Ethics
+Georgetown Journal on Poverty Law & Policy	Geo. J. on Poverty L. & Pol'y
+Georgetown Law Journal	Geo. L.J.
+Georgia Journal of International and Comparative Law	Ga. J. Int'l & Comp. L.
+Georgia Law Review	Ga. L. Rev.
+Georgia State University Law Review	Ga. St. U. L. Rev.
+Golden Gate University Law Review	Golden Gate U. L. Rev.
+Gonzaga Law Review	Gonz. L. Rev.
+Graven Images: A Journal of Culture, Law, and the Sacred	Graven Images
+Great Plains Natural Resources Journal	Great Plains Nat. Resources J.
+Hamline Journal of Public Law and Policy	Hamline J. Pub. L. & Pol'y
+Hamline Law Review	Hamline L. Rev.
+Harvard BlackLetter Law Journal	Harv. BlackLetter L.J.
+Harvard Civil Rights-Civil Liberties Law Review	Harv. C.R.-C.L. L. Rev.
+Harvard Environmental Law Review	Harv. Envtl. L. Rev.
+Harvard Human Rights Journal	Harv. Hum. Rts. J.
+Harvard International Law Journal	Harv. Int'l L.J.
+Harvard Journal of Law & Public Policy	Harv. J.L. & Pub. Pol'y
+Harvard Journal of Law & Technology	Harv. J.L. & Tech.
+Harvard Journal on Legislation	Harv. J. on Legis.
+Harvard Latino Law Review	Harv. Latino L. Rev.
+Harvard Law Review	Harv. L. Rev.
+Harvard Negotiation Law Review	Harv. Negot. L. Rev.
+Harvard Women's Law Journal	Harv. Women's L.J.
+Hastings Business Law Journal	Hastings Bus. L.J.
+Hastings Communications and Entertainment Law Journal	Hastings Comm. & Ent. L.J.
+Hastings Constitutional Law Quarterly	Hastings Const. L.Q.
+Hastings International and Comparative Law Review	Hastings Int'l & Comp. L. Rev.
+Hastings Law Journal	Hastings L.J.
+Hastings West-Northwest Journal of Environmental Law & Policy	Hastings W.-Nw. J. Envtl. L. & Pol'y
+Hastings Women's Law Journal	Hastings Women's L.J.
+Health Matrix	Health Matrix
+Hofstra Labor & Employment Law Journal	Hofstra Lab. & Emp. L.J.
+Hofstra Law & Policy Symposium	Hofstra L. & Pol'y Symp.
+Hofstra Law Review	Hofstra L. Rev.
+Houston Journal of Health Law & Policy	Hous. J. Health L. & Pol'y
+Houston Journal of International Law	Hous. J. Int'l L.
+Houston Law Review	Hous. L. Rev.
+Howard Law Journal	How. L.J.
+Howard Scroll: The Social Justice Review	How. Scroll
+Human Rights Quarterly	Hum. Rts. Q.
+I/S	I/S
+Idaho Law Review	Idaho L. Rev.
+IDEA: The Journal of Law and Technology	IDEA
+IIC: Journal of Intellectual Property and Competition Law	IIC
+ILSA Journal of International and Comparative Law	ILSA J. Int'l & Comp. L.
+Indiana Health Law Review	Ind. Health L. Rev.
+Indiana International & Comparative Law Review	Ind. Int'l & Comp. L. Rev.
+Indiana Journal of Global Legal Studies	Ind. J. Global Legal Stud.
+Indiana Law Journal	Ind. L.J.
+Indiana Law Review	Ind. L. Rev.
+Indigenous Peoples' Journal of Law, Culture & Resistance	Indigenous Peoples' J.L. Culture & Resist.
+Intellectual Property Law Bulletin	Intell. Prop. L. Bull.
+International and Comparative Law Quarterly	Int'l & Comp. L.Q.
+International and Comparative Law Review	Int'l & Comp. L. Rev.
+International Environmental Affairs	Int'l Envtl. Aff.
+International Journal for the Semiotics of Law	Int'l J. for Semiotics L.
+International Journal of the Legal Profession	Int'l J. Legal Prof.
+International Law Review	Int’l L. Rev.
+International Lawyer	Int'l Law.
+International Review of Law and Economics	Int'l Rev. L. & Econ.
+Iowa Law Review	Iowa L. Rev.
+John Marshall Journal of Computer & Information Law	J. Marshall J. Computer & Info. L.
+John Marshall Law Review	J. Marshall L. Rev.
+Journal of Affordable Housing & Community Development Law	J. Affordable Housing & Commun. Dev. L.
+Journal of Air Law and Commerce	J. Air L. & Com.
+Journal of Appellate Practice and Process	J. App. Prac. & Process
+Journal of Catholic Legal Studies	J. Cath. Legal Stud.
+Journal of College and University Law	J.C.& U.L.
+Journal of Contemporary Health Law & Policy	J. Contemp. Health L. & Pol'y
+Journal of Contemporary Legal Issues	J. Contemp. Legal Issues
+Journal of Corporation Law	J. Corp. L.
+Journal of Criminal Law and Criminology	J. Crim. L. & Criminology
+Journal of Dispute Resolution	J. Disp. Resol.
+Journal of East European Law	J.E. Eur. L.
+Journal of Empirical Legal Studies	J. Empirical Legal Stud.
+Journal of Environmental Law and Litigation	J. Envtl. L. & Litig.
+Journal of Gender, Race and Justice	J. Gender Race & Just.
+Journal of Health & Biomedical Law	J. Health & Biomed. L.
+Journal of Health Care Law & Policy	J. Health Care L. & Pol'y
+Journal of Intellectual Property Law	J. Intell. Prop. L.
+Journal of International Economic Law	J. Int'l Econ. L.
+Journal of International Legal Studies	J. Int'l Legal Stud.
+Journal of Land, Resources & Environmental Law	J. Land Res. & Envtl. L.
+Journal of Land Use and Environmental Law	J. Land Use & Envtl. L.
+Journal of Law and Commerce	J.L. & Com.
+Journal of Law & Economics	J.L. & Econ.
+Journal of Law & Education	J.L. & Educ.
+Journal of Law & Family Studies	J.L. & Fam. Stud.
+Journal of Law and Policy	J.L. & Pol'y
+Journal of Law and Politics	J.L. & Pol.
+Journal of Law and Religion	J.L. & Relig.
+Journal of Law and Social Change	J.L. & Soc. Change
+Journal of Law, Economics & Organization	J.L. Econ. & Org.
+Journal of Law, Economics & Policy	J.L. Econ. & Pol'y
+Journal of Law in Society	J.L. Soc'y
+Journal of Legal Education	J. Legal Educ.
+Journal of Legal Studies	J. Legal Stud.
+Journal of Legislation	J. Legis.
+Journal of Maritime Law and Commerce	J. Mar. L. & Com.
+Journal of Medicine and Law	J. Med. & L.
+Journal of National Security Law	J. Nat'l Sec. L.
+Journal of National Security Law & Policy	J. Nat'l Sec. L. & Pol'y
+Journal of Natural Resources & Environmental Law	J. Nat. Resources & Envtl. L.
+Journal of Pharmacy & Law	J. Pharmacy & L.
+Journal of Southern Legal History	J. S. Legal Hist.
+Journal of Space Law	J. Space L.
+Journal of Technology Law & Policy	J. Tech. L. & Pol'y
+Journal of the Association of Legal Writing Directors	J. Ass'n Legal Writing Directors
+Journal of the Copyright Society of the U.S.A.	J. Copyright Soc'y U.S.A.
+Journal of the Institute for the Study of Legal Ethics	J. Inst. Stud. Legal Ethics
+Journal of the Legal Profession	J. Legal Prof.
+Journal of the National Association of Administrative Law Judges	J. Nat’l Ass’n Admin. L.J.
+Journal of the Suffolk Academy of Law	J. Suffolk Acad. L.
+Journal of Transnational Law & Policy	J. Transnat'l L. & Pol'y
+Journal on Telecommunications & High Technology Law	J. Telecomm. & High Tech. L.
+Jurimetrics: The Journal of Law, Science, and Technology	Jurimetrics J.
+Kansas Journal of Law & Public Policy	Kan. J.L. & Pub. Pol'y
+Kentucky Law Journal	Ky. L.J.
+Labor Lawyer	Lab. Law.
+Law and Business Review of the Americas	Law & Bus. Rev. Am.
+Law and Contemporary Problems	Law & Contemp. Probs.
+Law and Critique	Law & Critique
+Law and History Review	Law & Hist. Rev.
+Law and Human Behavior	Law & Hum. Behav.
+Law & Inequality	Law & Ineq.
+Law and Literature	Law & Lit.
+Law & Policy	Law & Pol'y
+Law and Policy in International Business	Law & Pol'y Int'l Bus.
+Law & Psychology Rev.	Law & Psychol. Rev.
+Law & Sexuality: A Review of Lesbian, Gay, Bisexual and Transgender Legal Issues	Law & Sexuality
+Law & Social Inquiry: Journal of the American Bar Foundation	Law & Soc. Inquiry
+Law & Society Review	Law & Soc'y Rev.
+Law in Japan	Law in Japan
+Law Library Journal	Law Lib. J.
+Law Text Culture	Law Text Culture
+Legal Reference Services Quarterly	Legal Ref. Serv. Q.
+Legal Studies Forum	Legal Stud. F.
+Legal Writing: The Journal of the Legal Writing Institute	Legal Writing
+Lewis & Clark Law Review	Lewis & Clark L. Rev.
+Louisiana Law Review	La. L. Rev.
+Loyola Consumer Law Review	Loy. Consumer L. Rev.
+Loyola Journal of Public Interest Law	Loy. J. Pub. Int. L.
+Loyola Law & Technology Annual	Loy. L. & Tech. Ann.
+Loyola Law Review	Loy. L. Rev.
+Loyola Maritime Law Journal	Loy. Mar. L.J.
+Loyola of Los Angeles Entertainment Law Journal	Loy. L.A. Ent. L.J.
+Loyola of Los Angeles International and Comparative Law Review	Loy. L.A. Int'l & Comp. L. Rev.
+Loyola of Los Angeles Law Review	Loy. L.A. L. Rev.
+Loyola University Chicago Law Journal	Loy. U. Chi. L.J.
+Loyola University New Orleans Intellectual Property & High Technology Journal	Loy. U. N.O. Intell. Prop. & High Tech. J.
+Maine Law Review	Me. L. Rev.
+Marquette Elder's Advisor	Marq. Elder's Advisor
+Marquette Intellectual Property Law Review	Marq. Intell. Prop. L. Rev.
+Marquette Law Review	Marq. L. Rev.
+Marquette Sports Law Journal: Journal of the National Sports Law Institute	Marq. Sports L.J.
+Maryland Journal of International Law and Trade	Md. J. Int'l L. & Trade
+Maryland Law Review	Md. L. Rev.
+McGeorge Law Review	McGeorge L. Rev.
+Media Law & Policy	Media L. & Pol'y
+Mercer Law Review	Mercer L. Rev.
+Michigan Journal of Gender & Law	Mich. J. Gender & L.
+Michigan Journal of International Law	Mich. J. Int'l L.
+Michigan Journal of Race & Law	Mich. J. Race & L.
+Michigan Law Review	Mich. L. Rev.
+Michigan State Journal of International Law	Mich. St. J. Int’l L.
+Michigan State Law Review	Mich. St. L. Rev.
+Michigan State University-DCL Journal of International Law	Mich. St. U.-DCL J. Int'l L.
+Michigan Telecommunications and Technology Law Review	Mich. Telecomm. & Tech. L. Rev.
+Minnesota Intellectual Property Review	Minn. Intell. Prop. Rev.
+Minnesota Journal of International Law	Minn. J. Int'l L.
+Minnesota Journal of Law, Science & Technology	Minn. J. L. Sci. & Tech.
+Minnesota Law Review	Minn. L. Rev.
+Mississippi College Law Review	Miss. C. L. Rev.
+Mississippi Law Journal	Miss. L.J.
+Missouri Environmental Law and Policy Review	Mo. Envtl. L. & Pol'y Rev.
+Missouri Law Review	Mo. L. Rev.
+Montana Law Review	Mont. L. Rev.
+MSL Law Review	MSL L. Rev.
+National Black Law Journal	Nat'l Black L.J.
+Natural Resources Journal	Nat. Resources J.
+Nebraska Law Review	Neb. L. Rev.
+Nevada Law Journal	Nev. L.J.
+New England Journal on Criminal and Civil Confinement	New Eng. J. on Crim. & Civ. Confinement
+New England Journal of International and Comparative Law	New Eng. J. Int'l & Comp. L.
+New England Law Review	New Eng. L. Rev.
+New Mexico Law Review	N.M. L. Rev.
+New York City Law Review	N.Y. City L. Rev.
+New York Law School Journal of Human Rights	N.Y.L. Sch. J. Hum. Rts.
+New York Law School Journal of International and Comparative Law	N.Y.L. Sch. J. Int'l. & Comp. L.
+New York Law School Law Review	N.Y.L. Sch. L. Rev.
+New York University Annual Survey of American Law	N.Y.U. Ann. Surv. Am. L.
+New York University Environmental Law Journal	N.Y.U. Envtl. L.J.
+New York University Journal of International Law and Politics	N.Y.U. J. Int'l L. & Pol.
+New York University Journal of Law & Business	N.Y.U. J. L. & Bus.
+New York University Journal of Legislation and Public Policy	N.Y.U. J. Legis. & Pub. Pol'y
+New York University Law Review	N.Y.U. L. Rev.
+New York University Review of Law & Social Change	N.Y.U. Rev. L. & Soc. Change
+NEXUS: A Journal of Opinion	NEXUS
+North Carolina Banking Institute	N.C. Bank. Inst.
+North Carolina Central Law Journal	N.C. Cent. L.J.
+North Carolina Journal of International Law and Commercial Regulation	N.C. J. Int'l L. & Com. Reg.
+North Carolina Journal of Law & Technology	N.C. J.L. & Tech.
+North Carolina Law Review	N.C. L. Rev.
+North Dakota Law Review	N.D. L. Rev.
+Northern Illinois University Law Review	N. Ill. U. L. Rev.
+Northern Kentucky Law Review	N. Ky. L. Rev.
+Northwestern Journal of International Law & Business	Nw. J. Int'l L. & Bus.
+Northwestern University Law Review	Nw. U. L. Rev.
+Notre Dame Journal of Law, Ethics & Public Policy	Notre Dame J.L. Ethics & Pub. Pol'y
+Notre Dame Law Review	Notre Dame L. Rev.
+Nova Law Review	Nova L. Rev.
+NYU Journal of Law & Liberty	NYU J. L. & Liberty
+Ocean and Coastal Law Journal	Ocean & Coastal L.J.
+Ocean Development and International Law	Ocean Dev. & Int'l L.
+Ohio Northern University Law Review	Ohio N.U. L. Rev.
+Ohio State Journal of Criminal Law	Ohio St. J. Crim. L.
+Ohio State Journal on Dispute Resolution	Ohio St. J. on Disp. Resol.
+Ohio State Law Journal	Ohio St. L.J.
+Oklahoma City University Law Review	Okla. City U. L. Rev.
+Oklahoma Law Review	Okla. L. Rev.
+Oregon Law Review	Or. L. Rev.
+Oregon Review of International Law	Or. Rev. Int'l L.
+Pace Environmental Law Review	Pace Envtl. L. Rev.
+Pace International Law Review	Pace Int'l L. Rev.
+Pace Law Review	Pace L. Rev.
+Pacific Rim Law & Policy Journal	Pac. Rim L. & Pol'y J.
+Penn St. Environmental Law Review	Penn St. Envtl. L. Rev.
+Penn State International Law Review	Penn St. Int'l L. Rev.
+Penn State Law Review	Penn St. L. Rev.
+Pepperdine Dispute Resolution Law Journal	Pepp. Disp. Resol. L.J.
+Pepperdine Law Review	Pepp. L. Rev.
+Perspectives: Teaching Legal Research and Writing	Perspectives
+Pittsburgh Tax Review	Pitt. Tax Rev.
+Professional Lawyer: Symposium Issue	Prof. Law.(Symposium Issue)
+Psychology, Public Policy, and Law	Psychol. Pub. Pol'y & L.
+Public Contract Law Journal	Pub. Cont. L.J.
+Public Land & Resources Law Review	Pub. Land & Resources L. Rev.
+Quinnipiac Health Law	Quinnipiac Health L.
+Quinnipiac Probate Law Journal	Quinnipiac Prob. L.J.
+QLR	QLR
+Real Property, Probate and Trust Journal	Real Prop. Prob. & Tr. J.
+Regent University Law Review	Regent U. L. Rev.
+Research in Law and Economics	Research in L. & Econ.
+Review of Litigation	Rev. Litig.
+Richmond Journal of Global Law and Business	Rich. J. Global L. & Bus.
+Roger Williams University Law Review	Roger Willliams U. L. Rev.
+Rutgers Computer and Technology Law Journal	Rutgers Computer & Tech. L.J.
+Rutgers Law Journal	Rutgers L.J.
+Rutgers Law Review	Rutgers L. Rev.
+Rutgers Race and the Law Review	Rutgers Race & L. Rev.
+St. John's Journal of Legal Commentary	St. John's J. Legal Comment.
+St. John's Law Review	St. John's L. Rev.
+Saint Louis University Law Journal	St. Louis U. L.J.
+Saint Louis University Public Law Review	St. Louis U. Pub. L. Rev.
+Saint Louis-Warsaw Transatlantic Law Journal	St. Louis-Warsaw Transatlantic L.J.
+St. Mary's Law Journal	St. Mary's L.J.
+St. Thomas Law Review	St. Thomas L. Rev.
+San Diego International Law Journal	San Diego Int'l L.J.
+San Diego Law Review	San Diego L. Rev.
+Santa Clara Computer and High Technology Law Journal	Santa Clara Computer & High Tech. L.J.
+Santa Clara Law Review	Santa Clara L. Rev.
+Scholar: St. Mary's Law Review on Minority Issues	Scholar
+Scribes Journal of Legal Writing	Scribes J. Legal Writing
+Seattle Journal for Social Justice	Seattle J. for Soc. Just.
+Seattle University Law Review	Seattle U. L. Rev.
+Seton Hall Constitutional Law Journal	Seton Hall Const. L.J.
+Seton Hall Journal of Sport Law	Seton Hall J. Sport L.
+Seton Hall Law Review	Seton Hall L. Rev.
+Seton Hall Legislative Journal	Seton Hall Legis. J.
+SMU Law Review	SMU L. Rev.
+South Carolina Law Review	S.C. L. Rev.
+South Dakota Law Review	S.D. L. Rev.
+South Texas Law Review	S. Tex. L. Rev.
+Southeastern Environmental Law Journal	S.E. Envtl. L.J.
+Southern California Interdisciplinary Law Journal	S. Cal. Interdisc. L.J.
+Southern California Law Review	S. Cal. L. Rev.
+Southern California Review of Law and Women's Studies	S. Cal. Rev. L. & Women's Stud.
+Southern Illinois University Law Journal	S. Ill. U. L.J.
+Southern University Law Review	S.U. L. Rev.
+Southwestern Journal of Law and Trade in the Americas	Sw. J.L. & Trade Americas
+Southwestern University Law Review	Sw. U. L. Rev.
+Sports Lawyers Journal	Sports Law. J.
+Stanford Environmental Law Journal	Stan. Envtl. L.J.
+Stanford Journal of Civil Rights & Civil Liberties	Stan. J. C.R. & C.L.
+Stanford Journal of International Law	Stan. J. Int'l L.
+Stanford Journal of Law, Business & Finance	Stan. J.L. Bus. & Fin.
+Stanford Law & Policy Review	Stan. L. & Pol'y Rev.
+Stanford Law Review	Stan. L. Rev.
+Stetson Law Review	Stetson L. Rev.
+Suffolk Journal of Trial & Appellate Advocacy	Suffolk J. Trial & App. Advoc.
+Suffolk Transnational Law Review	Suffolk Transnat'l L. Rev.
+Suffolk University Law Review	Suffolk U.L. Rev.
+Supreme Court Review	Sup. Ct. Rev.
+Syracuse Journal of International Law and Commerce	Syracuse J. Int'l L. & Com.
+Syracuse Law Review	Syracuse L. Rev.
+Tax Law Review	Tax L. Rev.
+Tax Lawyer	Tax Law.
+Temple International and Comparative Law Journal	Temp. Int'l & Comp. L.J.
+Temple Journal of Science, Technology & Environmental Law	Temp. J. Sci. Tech. & Envtl. L.
+Temple Law Review	Temp. L. Rev.
+Temple Political & Civil Rights Law Review	Temp. Pol. & Civ. Rts. L. Rev.
+Tennessee Law Review	Tenn. L. Rev.
+Texas Hispanic Journal of Law & Policy	Tex. Hisp. J.L. & Pol'y
+Texas Intellectual Property Law Journal	Tex. Intell. Prop. L.J.
+Texas International Law Journal	Tex. Int'l L.J.
+Texas Journal of Civil Liberties & Civil Rights	Tex. J. on C.L. & C.R.
+Texas Journal of Women and the Law	Tex. J. Women & L.
+Texas Law Review	Tex. L. Rev.
+Texas Review of Entertainment & Sports Law	Tex. Rev. Ent. & Sports L.
+Texas Review of Law & Politics	Tex. Rev. L. & Pol.
+Texas Tech Journal of Texas Administrative Law	Tex. Tech J. Tex. Admin. L.
+Texas Tech Law Review	Tex. Tech L. Rev.
+Texas Wesleyan Law Review	Tex. Wesleyan L. Rev.
+Thomas Jefferson Law Review	T. Jefferson L. Rev.
+Thomas M. Cooley Journal of Practical and Clinical Law	T.M. Cooley J. Prac. & Clin. L.
+Thomas M. Cooley Law Review	T.M. Cooley L. Rev.
+Thurgood Marshall Law Review	T. Marshall L. Rev.
+Tort Trial & Insurance Practice Law Journal	Tort Trial & Ins. Prac. L.J.
+Touro International Law Review	Touro Int'l L. Rev.
+Touro Law Review	Touro L. Rev.
+Transactions: The Tennessee Journal of Business Law	Transactions
+Transnational Law & Contemporary Problems	Transnat'l L. & Contemp. Probs.
+Transnational Lawyer	Transnat'l Law.
+Transportation Law Journal	Transp. L.J.
+Tulane Environmental Law Journal	Tul. Envtl. L.J.
+Tulane European and Civil Law Forum	Tul. Eur. & Civ. L.F.
+Tulane Journal of International and Comparative Law	Tul. J. Int'l & Comp. L.
+Tulane Journal of Technology and Intellectual Property	Tul. J. Tech. & Intell. Prop.
+Tulane Law Review	Tul. L. Rev.
+Tulane Maritime Law Journal	Tul. Mar. L.J.
+Tulsa Journal of Comparative and International Law	Tulsa J. Comp. & Int'l L.
+Tulsa Law Review	Tulsa L. Rev.
+UC Davis Journal of Juvenile Law & Policy	UC Davis J. Juv. L. & Pol'y
+U.C. Davis Law Review	U.C. Davis L. Rev.
+UCLA Asian Pacific American Law Journal	UCLA Asian Pac. Am. L.J.
+UCLA Entertainment Law Review	UCLA Ent. L. Rev.
+UCLA Journal of Environmental Law & Policy	UCLA J. Envtl. L. and Pol'y
+UCLA Journal of International Law and Foreign Affairs	UCLA J. Int'l L. & Foreign Aff.
+UCLA Journal of Islamic and Near Eastern Law	UCLA J. Islamic & Near E.L.
+UCLA Law Review	UCLA L. Rev.
+UCLA Pacific Basin Law Journal	UCLA Pac. Basin L.J.
+UCLA Women's Law Journal	UCLA Women's L.J.
+UMKC Law Review	UMKC L. Rev.
+United States-Mexico Law Journal	U.S.-Mex. L.J.
+University of Arkansas at Little Rock Law Review	U. Ark. Little Rock L. Rev.
+University of Baltimore Intellectual Property Law Journal	U. Balt. Intell. Prop. L.J.
+University of Baltimore Journal of Environmental Law	U. Balt. J. Envtl. L.
+University of Baltimore Law Review	U. Balt. L. Rev.
+University of California Davis Journal of International Law and Policy	U.C. Davis J. Int'l L. & Pol'y
+University of Chicago Law Review	U. Chi. L. Rev.
+University of Chicago Law School Roundtable	U. Chi. L. Sch. Roundtable
+University of Chicago Legal Forum	U. Chi. Legal F.
+University of Cincinnati Law Review	U. Cin. L. Rev.
+University of Colorado Law Review	U. Colo. L. Rev.
+University of Dayton Law Review	U. Dayton L. Rev.
+University of Denver Water Law Review	U. Denv. Water L. Rev.
+University of Detroit Mercy Law Review	U. Det. Mercy L. Rev.
+University of Florida Journal of Law and Public Policy	U. Fla. J.L. & Pub. Pol'y
+University of Hawaii Law Review	U. Haw. L. Rev.
+University of Illinois Journal of Law, Technology & Policy	U. Ill. J.L. Tech. & Pol'y
+University of Illinois Law Review	U. Ill. L. Rev.
+University of Kansas Law Review	U. Kan. L. Rev.
+University of Maryland Law Journal of Race, Religion, Gender and Class	U. Md. L.J. Race Relig. Gender & Class
+University of Memphis Law Review	U. Mem. L. Rev.
+University of Miami Business Law Review	U. Miami Bus. L. Rev.
+University of Miami Entertainment & Sports Law Review	U. Miami Ent. & Sports L. Rev.
+University of Miami Inter-American Law Review	U. Miami Inter-Am. L. Rev.
+University of Miami Law Review	U. Miami L. Rev.
+University of Michigan Journal of Law Reform	U. Mich. J.L. Reform
+University of Pennsylvania Journal of Constitutional Law	U. Pa. J. Const. L.
+University of Pennsylvania Journal of International Economic Law	U. Pa. J. Int'l Econ. L.
+University of Pennsylvania Journal of Labor and Employment Law	U. Pa. J. Lab. & Emp. L.
+University of Pennsylvania Law Review	U. Pa. L. Rev.
+University of Pittsburgh Law Review	U. Pitt. L. Rev.
+University of Richmond Law Review	U. Rich. L. Rev.
+University of San Francisco Journal of Law & Social Challenges	U.S.F. J.L. & Soc. Challenges
+University of San Francisco Law Review	U.S.F.L. Rev.
+University of San Francisco Maritime Law Journal	U.S.F. Mar. L.J.
+University of St. Thomas Law Journal	U. St. Thomas L.J.
+University of the District of Columbia Law Review	U.D.C. L. Rev.
+University of Toledo Law Review	U. Tol. L. Rev.
+Urban Lawyer	Urb. Law.
+Utah Law Review	Utah L. Rev.
+Valparaiso University Law Review	Val. U. L. Rev.
+Vanderbilt Journal of Entertainment & Technology Law	Vand. J. Ent. & Tech. L.
+Vanderbilt Journal of Transnational Law	Vand. J. Transnat'l L.
+Vanderbilt Law Review	Vand. L. Rev.
+Vermont Law Review	Vt. L. Rev.
+Villanova Environmental Law Journal	Vill. Envtl. L.J.
+Villanova Journal of Law and Investment Management	Vill. J.L. & Investment Mgmt.
+Villanova Law Review	Vill. L. Rev.
+Villanova Sports & Entertainment Law Journal	Vill. Sports & Ent. L.J.
+Virginia Environmental Law Journal	Va. Envtl. L.J.
+Virginia Journal of International Law	Va. J. Int'l L.
+Virginia Journal of Social Policy & the Law	Va. J. Soc. Pol'y & L.
+Virginia Journal of Sports and the Law	Va. J. Sports & L.
+Virginia Law Review	Va. L. Rev.
+Virginia Tax Review	Va. Tax Rev.
+Wake Forest Law Review	Wake Forest L. Rev.
+Washburn Law Journal	Washburn L.J.
+Washington and Lee Law Review	Wash. & Lee L. Rev.
+Washington and Lee Race and Ethnic Ancestry Law Journal	Wash. & Lee Race & Ethic Anc. L.J.
+Washington Law Review	Wash. L. Rev.
+Washington University Global Studies Law Review	Wash. U. Global Stud. L. Rev.
+Washington University Journal of Law & Policy	Wash. U. J.L. & Pol'y
+Washington University Law Quarterly	Wash. U. L.Q.
+Wayne Law Review	Wayne L. Rev.
+West Virginia Law Review	W. Va. L. Rev.
+Western New England Law Review	W. New Eng. L. Rev.
+Western State University Law Review	W. St. U. L. Rev.
+Whittier Journal of Child and Family Advocacy	Whittier J. Child & Fam. Advoc.
+Whittier Law Review	Whittier L. Rev.
+Widener Law Journal	Widener L.J.
+Widener Law Review	Widener L. Review
+Willamette Journal of International Law and Dispute Resolution	Willamette J. Int'l L. & Disp. Resol.
+Willamette Law Review	Willamette L. Rev.
+William and Mary Bill of Rights Journal	Wm. & Mary Bill of Rts. J.
+William and Mary Environmental Law and Policy Review	Wm. & Mary Envtl. L. & Pol'y Rev.
+William and Mary Journal of Women and the Law	Wm. & Mary J. Women & L.
+William and Mary Law Review	Wm. & Mary L. Rev.
+William Mitchell Law Review	Wm. Mitchell L. Rev.
+Wisconsin International Law Journal	Wis. Int'l L.J.
+Wisconsin Law Review	Wis. L. Rev.
+Wisconsin Women's Law Journal	Wis. Women's L.J.
+Women's Rights Law Reporter	Women's Rts. L. Rep.
+Wyoming Law Review	Wyoming L. Rev.
+Yale Human Rights & Development Law Journal	Yale Hum. Rts. & Dev. L.J.
+Yale Journal of Health, Policy, Law, and Ethics	Yale J. Health Pol'y L. & Ethics
+Yale Journal of International Law	Yale J. Int'l L.
+Yale Journal of Law and Feminism	Yale J.L. & Feminism
+Yale Journal of Law & the Humanities	Yale J.L. & Human.
+Yale Journal on Regulation	Yale J. on Reg.
+Yale Law & Policy Review	Yale L. & Pol'y Rev.
+Yale Law Journal	Yale L.J.
